@@ -4,6 +4,7 @@ questions = {
     "Capital of India?": "delhi",
     "5 + 7 = ?": "12",
     "Python is a programming language?": "yes"
+    "ipl 2025 winner?":"RCB"
 }
 
 for q in questions:
