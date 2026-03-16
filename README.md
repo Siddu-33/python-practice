@@ -7,6 +7,8 @@ This repository contains my beginner Python programs.
 - caluculator.py-simple caluculator program
 - quiz_game.py-quiz game with score tracking
 - even_odd.py- check number even or odd
+- prime.py-check number is prime or not
+- guess_number.py-guess the correct number
 
 
 ## Author
